@@ -1,0 +1,19 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "description": "Nodecrashcourse",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mithun",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
